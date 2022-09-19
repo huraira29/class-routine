@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+*{
+    font-family: 'Poppins' ; 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.main{
+    background-color: rgb(201, 240, 227);
+    width: 1100px;
+    height: 630px;
+    margin: auto;
+    margin-top: 1em;
+    margin-bottom: 4em;
+}
+
+.image{
+    float: left;
+}
+.image img{
+    width: 250px;
+    height: 110px;
+    margin-left: 1em;
+    margin-top: 1em;
+}
+.text{
+    text-align: center;
+    margin-right: 23%;
+    padding-top: 0.2em;
+}
+.text button{
+    background: transparent;
+    width: 300px;
+    height: 50px;
+    font-size: 1.8em;
+    font-weight: bold;
+    margin-top: 0.5em;
+    background-color: rgba(137, 145, 154, 0.199);
+    border-radius: 8px;
+}
+.cls{
+    float: right;
+    margin-top: 2em;
+    margin-right: 2em;
+    font-size: 1.3em;
+}
+
+
+
+
+
+.table{
+    margin-left: 5%;
+    margin-top: 2em;
+}
+table{
+    width: 1000px;
+    height: 420px;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 1.3em;
+}
+.day{
+    background-color: rgba(137, 145, 154, 0.094);
+    font-weight: bold;
+}
+
+.print{
+    float: right;
+}
+.print button{
+    width: 200px;
+    margin-top: 1.3em;
+    height: 50px;
+    cursor: pointer;
+    font-size: 2em;
+}
+
+footer{
+    background-color: chartreuse;
+    color: brown;
+    text-align: center;
+    width: auto;
+}
+
+.fa-facebook{
+    color: dimgray;
+}
+.fa-facebook:hover{
+    color: chocolate;
+    transition: 0.6s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
